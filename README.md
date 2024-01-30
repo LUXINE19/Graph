@@ -5,4 +5,4 @@
        $ git clone https://github.com/LUXINE19/Graph
        $ cd Graph
        $ git pull
-       $ python newfileenc.py
+       $ python Free.py
